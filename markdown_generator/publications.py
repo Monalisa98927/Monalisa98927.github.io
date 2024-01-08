@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# # Publications markdown generator for academicpages
+# # Publications markdown generator for Monalisa98927
 # 
 # Takes a TSV of publications with metadata and converts them for use with [Monalisa98927.github.io](Monalisa98927.github.io). This is an interactive Jupyter notebook, with the core python code in publications.py. Run either from the `markdown_generator` folder after replacing `publications.tsv` with one that fits your format.
 # 
